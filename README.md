@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **LeonardoJoseBS/LeonardoJoseBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything
 - 📫 How to reach me: instagram/leoyosef
 - 😄 Pronouns: he
-- ⚡ Fun fact: I like parties, music, traveling, games, football, series, movies and in my free time programming haha
+- ⚡ Fun fact: I like parties, music, traveling, games, football, series, movies and in my free time programming hahaha
 -->
